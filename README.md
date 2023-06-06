@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishabh-Vedabrata-Projects
+- 👋 Hi, I’m Rishabh Vedabrata
 - 👀 I’m interested in Creating Visualizations
 - 🌱 I’m currently learning Python
 
